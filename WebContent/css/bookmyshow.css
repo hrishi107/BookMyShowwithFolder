@@ -1,0 +1,78 @@
+body{font-family: Arial, Helvetica, sans-serif; margin:0;padding:0;font-family:initial;background-color: black;}
+h1,h2,ul,li,p{margin:0;padding:0}
+//.MainWrapper{margin:0 auto;}
+.Header{height:157px; background-color:#333545;margin:0 auto}
+.primaryheader{height:143px;height: 110px;padding:30px;text-align:center}
+.searchboxheader{width:600px !important ;height:36px}
+.bookmyshowpng{background-image:url("../images/bookmyshow.png");background-repeat:no-repeat; height:36px; width:132px; display:inline-block}
+.innernav{width:651px; margin:0 auto}
+.headerlinks{list-style-type:none;margin-left:83px}
+.swing{float:left; padding:0px 20px}
+.clr{clear:both}
+.nav-link{color:#fff;}
+.city{padding-right:10px}
+
+/*RegisterPage and login page css*/
+//body {}
+*{box-sizing: border-box;}
+p{padding:5px;margin:0}
+.container1{padding: 16px 0px 0px 16px;background-color:white;position:fixed;top:50px;left:0px;right:0px;margin:0 auto;width:700px;border-radius:5px;display:none;}
+input[type=text], input[type=password]{width: 100%;padding: 15px;margin: 5px 0 22px 0;display: inline-block;border: none;background: #f1f1f1;}
+input[type=text]:focus, input[type=password]:focus{background-color: #ddd;outline: none;}
+hr {border: 1px solid #f1f1f1;margin-bottom: 25px;}
+.registerbtn{background-color: #4CAF50;color: white;padding: 16px 20px;margin: 8px -8px;border: none;cursor: pointer;width: 100%;opacity: 0.9;}
+.registerbtn1{background-color: red;color: white;padding: 16px 20px;margin: 8px -8px;border: none;cursor: pointer;width: 100%;opacity: 0.9;}
+.registerbtn:hover{opacity: 1;}
+.registerbtn1:hover{opacity: 1;}
+.City{width:279px;height:40px;padding:10px 0 10px 102px;margin-bottom:10px}
+.DisplayDiv{width:700px;background-color:white;display:none;font-size:20px;border-radius:13px}
+.clr{clear:both}
+.form{margin:0 auto;}
+.Span{font-size:15px;float:right}
+.displaySpan{margin-left:10px;color:green}
+.Display{position:fixed;top:50px;left:0px;right:0px;margin:0 auto}
+.DisplayDiv1{width:700px;background-color:white;display:none;font-size:20px;border-radius:13px}
+.Heading1{color:black; font-size:30px}
+.cross{background-image:url("../images/error.png");background-repeat:no-repeat;height:64px;width:64px;position:absolute;right:-15px;top:-14px;}
+
+.over{position:fixed;bottom:0px;right:0px;height:100%;width:100%;opacity:0.7;display:none;overflow:hidden;background-color:black}
+.formHeight{height:800px;overflow-x:scroll}
+.container2{padding:16px 0px 0px 16px;background-color:white;position:fixed;top:50px;left:0px;right:0px;margin:0 auto;width:700px;border-radius:5px;display:none}
+#reglink{color:blue}
+.cityPopup{text-align:center;}
+.cityPopup1{background-color:#fff;width:739px;margin:0 auto;display:none}
+#SelectDropDown{margin:50px 0px 50px 0px}
+.lastBlockDiv{height:350px;border:1px solid #FFEB3B;margin-top:243px;padding:0px 182px 0px 250px}
+.blockdiv{width:222px; border:1px solid #FFEB3B;padding:10px;height:323px;margin:10px;float:left; background-image:url("../images/sbi.png");background-repeat:no-repeat; height:309px; width:266px; display:inline-block}
+/*footer*/
+.LastDiv{padding:10px 0 30px 0;background-color:black;boredr:1 px solid #FFEB3B }
+.FooterH2{color:#fff;border-bottom:1px solid #2b2727;padding:10px}
+.FooterH3{color:#2b2727;border-bottom:1px solid #2b2727;padding:10px}
+.Box{width:1153px;height:450px;box-sizing:border-box}
+
+.BOX1{width:278.25px;float:left;box-sizing:border-box;margin-right:13px;overflow:hidden;padding:13px 43px;background-color:#f7ecec;margin-top:10px}
+.BOX2{width:278.25px;float:left;box-sizing:border-box;margin-right:13px;padding:16px 43px;background-color:#f7ecec;margin-top:10px}
+.BOX3{width:278.25px;float:left;box-sizing:border-box;margin-right:13px;padding:16px 43px;background-color:#f7ecec;margin-top:10px}
+.BOX4{width:278.25px;float:left;box-sizing:border-box;padding:16px 43px;background-color:#f7ecec;margin-top:10px}
+.movieBanner{height:350px;border:1px solid #FFEB3B;text-align:center}
+.theaterContainer{height:450px;border:1px solid #FFEB3B;padding:10px;width:800px;margin:0 auto;font-size:50px;color:#fff}
+.theaterList{height:100px;border:1px solid #FFEB3B;width:776px;font-size:50px;color:#fff;padding:14px;margin-top:25px}
+.moveName{font-size:50px;color:#fff;position:absolute;top:454px}
+.movebannerbackimg{background-image:url("../images/Manikarnika.jpg");background-repeat:no-repeat; height:348px; width:1126px; display:inline-block}
+.theaterName{height:70px;border:1px solid #FFEB3B;width:166px;font-size:28px;color:#fff;margin-right:20px;float:left;text-align:center;padding:15px}
+.anchor{color:#fff !important}
+.SeatavilabilityPopup{height:660px; width:600px;display:block;border:1px solid #FFEB3B;position:fixed;top:220px;right:0px;bottom:0px;left:0px;margin:0 auto;background:#fff;z-index:800;box-sizing:borderbox;padding:30px}
+.OverlaySeatavilabilityPopup{position:fixed;bottom:0px;right:0px;height:100%;width:100%;opacity:0.7;display:none;overflow:hidden;background-color:black}
+.cross1{background-image:url("../images/error.png");background-repeat:no-repeat;height:64px;width:64px;position:absolute;right:-15px;top:-14px;}
+.Seat{width:40px;height:40px;float:left;margin:5px;border:1px solid black;border-radius:5px;box-sizing:borderbox;padding:14px}
+.labelA{float:left;margin-top:16px}
+.label{display:block;color:blue}
+.screen{height:20px;width:393px;background:blue;margin:0 auto;margin-top:10px}
+
+.Seattbl{width:600px;height:500px;border:1px solid yellow}
+.label1{margin-top:17px;float:left}
+.labelscreen{display:block;color:green;text-align:center;margin-top:20px}
+.adminForm{Width:1000px;margin:0 auto;border:1px solid black;height:800px}
+.lable{width:30px;font-size:25px}
+.countrybutton{background-color: #4CAF50;color: white;padding: 16px 20px;margin: 8px -8px;border: none;cursor: pointer;width:60px;opacity: 0.9}
+.inputFeild{width:600px !important}
